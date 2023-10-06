@@ -5,9 +5,7 @@ img {vertical-align: middle;}
 
 /* object-fit to uniformly sized slides */
 img {
-    width: 500px;
-    height: 500px;
-    object-fit: contain;
+    width: 100%; 
 }
 
 /* Slideshow container */
